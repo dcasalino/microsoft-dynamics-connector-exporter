@@ -1,1 +1,1 @@
-# microsoft-dynamics-connector-exporter
+# Microsoft Dynamics Connector Exporter
